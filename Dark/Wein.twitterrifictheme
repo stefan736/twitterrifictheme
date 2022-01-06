@@ -111,21 +111,21 @@
 	<key>tweetTypeMessage-titleColor</key>
 	<string>14:137:203</string>
 	<key>tweetTypeQuoted-backgroundColor</key>
-	<string>31:23:38</string>
+	<string>26:20:33</string>
 	<key>tweetTypeQuoted-borderColor</key>
-	<string>191:191:207</string>
+	<string>60:48:68</string>
 	<key>tweetTypeQuoted-detailColor</key>
-	<string>118:117:118</string>
+	<string>131:122:144</string>
 	<key>tweetTypeQuoted-linkBackgroundColor</key>
 	<string>201:201:202</string>
 	<key>tweetTypeQuoted-linkColor</key>
-	<string>25:140:214</string>
+	<string>178:102:254</string>
 	<key>tweetTypeQuoted-selectedBackgroundColor</key>
-	<string>41:30:49</string>
+	<string>31:23:38</string>
 	<key>tweetTypeQuoted-textColor</key>
-	<string>83:82:83</string>
+	<string>182:165:201</string>
 	<key>tweetTypeQuoted-titleColor</key>
-	<string>47:46:47</string>
+	<string>254:255:255</string>
 	<key>tweetTypeReply-backgroundColor</key>
 	<string>248:225:184</string>
 	<key>tweetTypeReply-borderColor</key>
@@ -143,21 +143,21 @@
 	<key>tweetTypeReply-titleColor</key>
 	<string>66:42:8</string>
 	<key>tweetTypeSent-backgroundColor</key>
-	<string>237:254:225</string>
+	<string>30:23:38</string>
 	<key>tweetTypeSent-borderColor</key>
-	<string>125:173:81</string>
+	<string>60:48:69</string>
 	<key>tweetTypeSent-detailColor</key>
-	<string>121:168:87</string>
+	<string>135:121:147</string>
 	<key>tweetTypeSent-linkBackgroundColor</key>
 	<string>177:220:159</string>
 	<key>tweetTypeSent-linkColor</key>
-	<string>42:169:35</string>
+	<string>185:133:249</string>
 	<key>tweetTypeSent-selectedBackgroundColor</key>
-	<string>217:239:202</string>
+	<string>31:23:38</string>
 	<key>tweetTypeSent-textColor</key>
-	<string>67:122:28</string>
+	<string>255:255:255</string>
 	<key>tweetTypeSent-titleColor</key>
-	<string>31:76:0</string>
+	<string>254:255:255</string>
 	<key>tweetTypeSentMessage-backgroundColor</key>
 	<string>234:249:255</string>
 	<key>tweetTypeSentMessage-borderColor</key>
