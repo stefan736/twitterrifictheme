@@ -59,16 +59,15 @@
 	<key>titlebarSelectedBackgroundColor</key>
 	<string>31:23:38</string>
 	<key>titlebarSelectedImageColor</key>
-	<string>251:252:255</string>
+	<string>240:235:255</string>
 	<key>titlebarVibrancyTintColor</key>
-	<string>100:100:0</string>
-
+	<string>36:41:51</string>
 	<key>tweetTypeDefault-backgroundColor</key>
 	<string>41:30:51</string>
 	<key>tweetTypeDefault-borderColor</key>
 	<string>55:41:69</string>
 	<key>tweetTypeDefault-detailColor</key>
-	<string>186:165:207</string>
+	<string>139:130:154</string>
 	<key>tweetTypeDefault-linkBackgroundColor</key>
 	<string>216:216:227</string>
 	<key>tweetTypeDefault-linkColor</key>
@@ -79,12 +78,11 @@
 	<string>188:167:209</string>
 	<key>tweetTypeDefault-titleColor</key>
 	<string>255:252:255</string>
-	
 	<key>tweetTypeMention-backgroundColor</key>
-	<string>49:31:61</string>
-	<key>tweetTypeReply-backgroundColor</key>
 	<string>49:31:61</string>
 	<key>tweetTypeQuoted-backgroundColor</key>
 	<string>31:23:38</string>
+	<key>tweetTypeReply-backgroundColor</key>
+	<string>49:31:61</string>
 </dict>
 </plist>
