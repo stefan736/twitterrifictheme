@@ -21,9 +21,9 @@
 	<key>composeWarningBackgroundColor</key>
 	<string>255:129:0</string>
 	<key>darkWindowStyle</key>
-	<integer>0</integer>
+	<true/>
 	<key>dividerColor</key>
-	<string>191:191:207</string>
+	<string>60:46:75</string>
 	<key>favoriteColor</key>
 	<string>173:61:255</string>
 	<key>markerColor</key>
@@ -41,7 +41,7 @@
 	<key>retweetColor</key>
 	<string>56:149:0</string>
 	<key>standardBackgroundColor</key>
-	<string>185:184:191</string>
+	<string>30:23:37</string>
 	<key>standardHighlightedImageColor</key>
 	<string>74:66:83</string>
 	<key>standardImageColor</key>
@@ -55,9 +55,9 @@
 	<key>titlebarHighlightedImageColor</key>
 	<string>25:140:214</string>
 	<key>titlebarImageColor</key>
-	<string>83:82:83</string>
+	<string>31:23:38</string>
 	<key>titlebarSelectedBackgroundColor</key>
-	<string>163:161:163</string>
+	<string>31:23:38</string>
 	<key>titlebarSelectedImageColor</key>
 	<string>251:252:255</string>
 	<key>titlebarVibrancyTintColor</key>
@@ -111,7 +111,7 @@
 	<key>tweetTypeMessage-titleColor</key>
 	<string>14:137:203</string>
 	<key>tweetTypeQuoted-backgroundColor</key>
-	<string>247:247:250</string>
+	<string>31:23:38</string>
 	<key>tweetTypeQuoted-borderColor</key>
 	<string>191:191:207</string>
 	<key>tweetTypeQuoted-detailColor</key>
