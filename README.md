@@ -7,4 +7,5 @@ This repository includes a list of custom Themes for Twitterrific.
 - Put it in your iCloud Drive folder /Twitterrific/Themes/Dark/ or /Twitterrific/Themes/Light/
 - Simply choose the theme 
 
-## Tweetbot_Wine
+## Dark / Tweetbot_Wine
+![Tweetbot_Wine](Dark/Tweetbot_Wine.jpeg)
