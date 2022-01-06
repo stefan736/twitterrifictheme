@@ -7,7 +7,7 @@ This repository includes a list of custom Themes for [Twitterrific](https://twit
 - Put it in your iCloud Drive folder /Twitterrific/Themes/Dark/ or /Twitterrific/Themes/Light/
 - Simply choose the theme 
 
-## Dark / Tweetbot_Wine
+## Dark / Wein
 Inspired by [Tweetbots](https://tapbots.com/tweetbot/) Wine theme
 
-![Tweetbot_Wine](Dark/Tweetbot_Wine.jpeg)
+![Wein](Dark/Wein.jpeg)
